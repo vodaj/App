@@ -1,0 +1,14 @@
+C:\Users\jruprich\Documents\App\MDP\MDP\bin\Debug\netcoreapp2.1\MDP.deps.json
+C:\Users\jruprich\Documents\App\MDP\MDP\bin\Debug\netcoreapp2.1\MDP.runtimeconfig.json
+C:\Users\jruprich\Documents\App\MDP\MDP\bin\Debug\netcoreapp2.1\MDP.runtimeconfig.dev.json
+C:\Users\jruprich\Documents\App\MDP\MDP\bin\Debug\netcoreapp2.1\MDP.dll
+C:\Users\jruprich\Documents\App\MDP\MDP\bin\Debug\netcoreapp2.1\MDP.pdb
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.csprojResolveAssemblyReference.cache
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.csproj.CoreCompileInputs.cache
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.RazorAssemblyInfo.cache
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.RazorAssemblyInfo.cs
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.AssemblyInfoInputs.cache
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.AssemblyInfo.cs
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.RazorTargetAssemblyInfo.cache
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.dll
+C:\Users\jruprich\Documents\App\MDP\MDP\obj\Debug\netcoreapp2.1\MDP.pdb
